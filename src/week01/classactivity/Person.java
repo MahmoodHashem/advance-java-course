@@ -1,4 +1,5 @@
-package week1.classactivity;
+package week01.classactivity; 
+
 
 public class Person {
     private int id;

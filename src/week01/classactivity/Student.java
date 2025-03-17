@@ -1,4 +1,7 @@
-package week1.classactivity;
+package week01.classactivity; 
+
+
+
 
 public class Student extends Person {
     private String studentId;
