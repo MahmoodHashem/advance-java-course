@@ -12,13 +12,14 @@ This repository contains my work and progress through the Advanced Java course a
 ## Weekly Topics
 
 1. Week 1: Object Oriented Revision
-
    - Key concepts covered
    - Main exercises
+2. Week 2: Exception Handling
 
 ## Progress Tracking
 
 - [X] Week 1: Introduction to Object Oriented Programming, Encapsulation and Inheritence.
+- [ ] Week 2:
 
 ## Important Deadlines
 
